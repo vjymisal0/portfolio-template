@@ -81,24 +81,24 @@ const projects = [
   {
     // Add image in './styles/images.css' in #project1
     id: "project1",
-    name: "Project 1",
-    skills: ["HTML, CSS, JS"],
-    url: "https://vjymisal0.github.io/GetNotes/",
+    name: "Score-Go",
+    skills: ["BootStarp5, JavaScript (node.js, express.js), MongoDB"],
+    url: "https://www.scorego.live/",
   },
   {
     // Add image in './styles/images.css' in #project2
     id: "project2",
-    name: "Project 2",
-    skills: ["BootStarp5, JS (node.js, express.js), MongoDB"],
-    url: "https://www.scorego.live/",
+    name: "Get-Notes",
+    skills: ["HTML, CSS, JavaScript (LocalStorage)"],
+    url: "https://vjymisal0.github.io/GetNotes/",
+  },
+  {
+    // Add image in './styles/images.css' in #project3
+    id: "project3",
+    name: "Dental Care System",
+    skills: ["Java, (JDBC, Swing), MySQL "],
+    url: "https://github.com/vjymisal0/dental_care_system.git",
   }
-  // {
-  //   // Add image in './styles/images.css' in #project3
-  //   id: "project3",
-  //   name: "Project 3",
-  //   skills: ["HTML, CSS, JS"],
-  //   url: "https://github.com/vjymisal0",
-  // },
   // {
   //   // Add image in './styles/images.css' in #project4
   //   id: "project4",
@@ -148,9 +148,9 @@ const miscellaneous = [
 const section5Title = "Get in Touch";
 const contact = {
   pitch:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris nunc congue nisi vitae.",
+    "I am currently looking for internship opportunities and new connections over professionall life. If you have any questions or want to say hi, please feel free to reach me...",
   copyright: "Vijay Misal",
-  contactUrl: "",
+  contactUrl: "misalvijay153@gmail.com",
 };
 const social = {
   github: "https://github.com/vjymisal0",
@@ -158,7 +158,7 @@ const social = {
   twitter: "https://twitter.com/me_vijay07",
   instagram: "https://www.instagram.com/vjy_.07/",
   linkedin: "https://www.linkedin.com/in/vijay-misal-b4b19b222/",
-  resume: "https://novoresume.com/",
+  resume: "https://drive.google.com/file/d/1pzGBY56WEsY7a_AjP_nv-aonVmvchkcD/view?usp=sharing",
 };
 // Dont change anything here
 export {

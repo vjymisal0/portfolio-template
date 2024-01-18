@@ -3,19 +3,19 @@
     background-image: url('../components/images/vijay.jpg');
 }
 
-/* Projects Photo */
+
 .project1 {
-    background-image: url('https://via.placeholder.com/400x600.png?text=Project+one');
+    background-image: url('../components/images/scorego.png');
     cursor: none;
 }
 
 .project2 {
-    background-image: url('https://via.placeholder.com/400x600.png?text=Project+two');
+    background-image: url('../components/images/getnotes.png');
     cursor: none;
 }
 
 .project3 {
-    background-image: url('https://via.placeholder.com/400x600.png?text=Project+three');
+    background-image: url('../components/images/dental.png');
     cursor: none;
 }
 
