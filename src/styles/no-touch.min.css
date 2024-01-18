@@ -590,6 +590,7 @@ input:checked+.slider:before {
   .about-text {
     width: 100%;
     text-align: center;
+
   }
 
   .red-line::before {
@@ -602,6 +603,8 @@ input:checked+.slider:before {
 
   .skills {
     padding: 10% 5%;
+    cursor: pointer !important;
+
   }
 
   .third {

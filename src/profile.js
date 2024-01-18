@@ -9,21 +9,18 @@ const animation = {
 };
 // Change your display name on tha landing display
 const header = {
-  name: "a Vijay",
+  name: "Vijay",
 };
 const background = {
   // Options: Snow or Particle
   type: "Particle",
 };
-// Write a para about yourself here
-// To update your image, go to './styles/images.css'
+
 const section2title = "About Me";
 const about = {
   paragraph:
-    "I am second year student at VIIT, Pune pursuing B.Tech in Information Technology, I am a full stack developer and MERN stack enthusiast.",
+    "I am second year student at VIIT, Pune pursuing B.Tech in Information Technology, I am a full stack developer and MERN stack enthusiast. I am passionate about exploring new things. Below are some of my skills. ",
 };
-// Edit your skill and the percentage you know about it
-// To Add a skill, copy any one below and paste it after the last comma
 const skillsBar = [
   {
     name: "HTML5",
@@ -42,9 +39,10 @@ const skillsBar = [
     faClass: "fab fa-js",
   },
   {
-    name: "SASS",
+    name: "React",
     // svg: '',
-    faClass: "fab fa-sass",
+    // faClass: "fa- brands fa - react",
+    faClass: "fab fa-react",
   },
   {
     name: "Node",
@@ -72,14 +70,12 @@ const skillsBar = [
     faClass: "fas fa-database",
   },
   {
-    name: "AWS",
+    name: "GitHub",
     // svg: '',
-    faClass: "fab fa-aws",
+    // faClass: "fab fa-aws",
+    faClass: "fab fa-github",
   },
 ];
-// Edit your projects, its name, your skills used to make it, and the url.
-// You can omit freely anything if you dont have it
-// To Add a Project, copy any one below and paste it after the last comma and increment the id's project number
 const section3Title = "Past Projects";
 const projects = [
   {
@@ -125,9 +121,6 @@ const projects = [
   //   url: "https://github.com/vjymisal0",
   // },
 ];
-// Edit your Miscellaneous Activities, its name and the url.
-// You can omit freely anything if you dont have it
-// To Add a Activity, copy any one below and paste it after the last comma and increment the id's Miscellaneous number
 // const section4Title = "Miscellaneous";
 const miscellaneous = [
   // {
